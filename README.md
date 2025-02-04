@@ -2,15 +2,15 @@ Built this landing page template built for indie hackers and solopreneurs who ne
 
 ### Features
 
-- 🎯 Pre-built sections for all essential content:
+- Pre-built sections for all essential content:
   - Hero section with compelling value proposition
   - Feature highlights
   - Pricing tables
   - FAQ section
-- 🎨 Modern dark theme design
-- 📱 Fully responsive for all devices
-- ⚡ Built with performance in mind
-- 🛠 Easy to customize
+- Modern dark theme design
+- Fully responsive for all devices
+- Built with performance in mind
+- Easy to customize
 
 ### Tech Stack
 
@@ -50,9 +50,9 @@ Edit these files to customize your landing page content:
 ### Support
 
 If you find this template helpful, please consider:
-- ⭐ Starring the repo
-- 🔄 Sharing with other indie hackers
-- 🛠 Contributing improvements
+- Starring the repo
+- Sharing with other indie hackers
+- Contributing improvements
 
 ### Contributing
 
