@@ -1,8 +1,6 @@
-# Modern Landing Page Template
+Built this landing page template built for indie hackers and solopreneurs who need to quickly launch their product's web presence. I've used it multiple times so time can be spent focused on deploying the product instead of a landing page every time.
 
-A sleek, responsive landing page template built for indie hackers and solopreneurs who need to quickly launch their product's web presence.
-
-## ✨ Features
+### Features
 
 - 🎯 Pre-built sections for all essential content:
   - Hero section with compelling value proposition
@@ -14,14 +12,13 @@ A sleek, responsive landing page template built for indie hackers and solopreneu
 - ⚡ Built with performance in mind
 - 🛠 Easy to customize
 
-## 🚀 Tech Stack
+### Tech Stack
 
 - React + TypeScript
 - Tailwind CSS
 - shadcn/ui components
 - Vite
 
-## 🎨 Customization
 
 ### Main Sections
 
@@ -38,7 +35,7 @@ Edit these files to customize your landing page content:
 - Component styling uses Tailwind classes
 - Additional customization through shadcn/ui components
 
-## 🌐 Deployment
+### Deployment
 
 1. Build your site:
 - bash
@@ -50,18 +47,14 @@ Edit these files to customize your landing page content:
 - GitHub Pages
 - Any static hosting
 
-## 📝 License
-
-MIT License - Feel free to use this template for your projects!
-
-## 💪 Support
+### Support
 
 If you find this template helpful, please consider:
 - ⭐ Starring the repo
 - 🔄 Sharing with other indie hackers
 - 🛠 Contributing improvements
 
-## 🤝 Contributing
+### Contributing
 
 1. Fork the repo
 2. Create feature branch
