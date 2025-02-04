@@ -13,7 +13,7 @@
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
  
-    --primary: 210 40% 98%;
+    --primary: 47 95% 50%;
     --primary-foreground: 222.2 47.4% 11.2%;
  
     --secondary: 217.2 32.6% 17.5%;
@@ -46,5 +46,5 @@
 }
 
 .gradient-text {
-  @apply bg-clip-text text-transparent bg-gradient-to-r from-emerald-400 to-blue-500;
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 to-yellow-500;
 }
